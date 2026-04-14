@@ -17,7 +17,7 @@ A modern and responsive **Recipe Finder Web App** built using **HTML, CSS, and J
 
 ## 🌐 Live Demo
 
-👉 https://your-username.github.io/recipe-finder/
+👉 https://sudmon222.github.io/recipe-finder/
 
 ---
 
@@ -73,6 +73,6 @@ recipe-finder/
 
 **Sudipta Mondal**
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/sudmon222
 
 ---
